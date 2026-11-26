@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and this software archive."
+title: "Analysis code for: Longitudinal Genome-Wide Association Study of Bone Mineral Density in Black, Hispanic, and American Indian/Alaska Native Postmenopausal Women from the Women's Health Initiative"
+version: "1.0.0"
+date-released: "2026-12-10"
+license: MIT
+authors:
+  - family-names: Jung
+    given-names: Jongyun
+    orcid: "https://orcid.org/0000-0002-9258-5397"
+  - family-names: Wu
+    given-names: Qing
+    orcid: "https://orcid.org/0000-0003-4679-8903"
+keywords:
+  - TrajGWAS
+  - longitudinal GWAS
+  - bone mineral density
+  - Women's Health Initiative
+  - within-subject variability
