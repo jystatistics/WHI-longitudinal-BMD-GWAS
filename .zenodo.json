@@ -1,0 +1,11 @@
+{
+  "title": "Analysis code for: Longitudinal Genome-Wide Association Study of Bone Mineral Density in Black, Hispanic, and American Indian/Alaska Native Postmenopausal Women from the Women's Health Initiative",
+  "upload_type": "software",
+  "description": "Genotype rebuild, TrajGWAS analysis, Framingham Heart Study look-up, and figure/table scripts for a longitudinal GWAS of hip and spine bone mineral density in the Women's Health Initiative. Code only: no individual-level data. The data are available to approved users from dbGaP.",
+  "creators": [
+    {"name": "Jung, Jongyun", "orcid": "0000-0002-9258-5397", "affiliation": "The Ohio State University; Columbia University"},
+    {"name": "Wu, Qing", "orcid": "0000-0003-4679-8903", "affiliation": "The Ohio State University"}
+  ],
+  "license": "MIT",
+  "keywords": ["TrajGWAS", "longitudinal GWAS", "bone mineral density", "Women's Health Initiative", "within-subject variability"]
+}
